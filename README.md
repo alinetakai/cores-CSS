@@ -1,5 +1,5 @@
 
-# Painel de Controle Intergaláctico
+# Cores CSS
 
 Este repositório contém uma página que aborda várias formas de definirmos cores utilizando o CSS e linka templates com atividades práticas desse conteúdo.
 
